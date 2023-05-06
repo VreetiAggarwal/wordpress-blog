@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 6, 2023 12:27 PM
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.3.1
+WORDPRESS:	6.2
+PHP INFO:	8.0.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/8.0.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: animerush_d415475ae4af2e242231_20230506122656_database.sql
+SQL FILE SIZE: 1.68MB (1757900)
+SQL FILE TIME: 2023-05-06 12:27:19
+SQL RUNTIME: 3.20 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/MAMP/htdocs/wordpress
+ARCHIVE FILE: animerush_d415475ae4af2e242231_20230506122656_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	95.22MB
+STATS:	Dirs 709 | Files 4,630
+SQL ADDED: animerush_d415475ae4af2e242231_20230506122656_database.sql
+ZipArchive Object
+(
+    [lastId] => 5338
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5339
+    [filename] => C:\MAMP\htdocs\wordpress\wp-content\backups-dup-lite\tmp\animerush_d415475ae4af2e242231_20230506122656_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5338
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 42.96MB
+ARCHIVE RUNTIME: 98.34 sec.
+MEMORY STACK: 10MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.68MB
+INSTALLER FILE: 73.34KB
+ARCHIVE FILE: 44.8MB 
+EXPECTED FILE/DIRECTORY COUNT: 5,339
+ACTUAL FILE/DIRECTORY COUNT: 5,338
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 105.77 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => animerush May 6, 2023 12:29 PM
+
